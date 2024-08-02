@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 cd doujinci
 conda init
 conda update -n base -c defaults conda -y
